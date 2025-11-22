@@ -1,0 +1,7 @@
+{
+  "name": "Fitness Fusion",
+  "description": "An AI-powered holistic fitness tracking application combining workout logging, nutrition analysis via computer vision, and personalized AI coaching.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
